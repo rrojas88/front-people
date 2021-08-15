@@ -10,7 +10,7 @@
 			</h5>
 			
 			<form class="row g-3">
-				<div class="">
+				<div class=""> 
 					<label for="name" class="form-label">
 						Nombre
 					</label>
